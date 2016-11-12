@@ -22,3 +22,7 @@
   大功告成，此时网速慢的用户访问时，屏幕上会显示为:
   ![3.png](https://ooo.0o0.ooo/2016/11/12/5826886d4f333.png)
     
+
+思考与改进:
+   [The “Blur Up” Technique for Loading Background Images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
+   或许也可以结合progressive JPEG(渐进式JPRG)?
