@@ -24,8 +24,9 @@
     
 
 思考与改进:
-   [The “Blur Up” Technique for Loading Background Images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
    
-   [Improving "Improving Perceived Performance with Multiple Background Images" with multiple background images](http://codepen.io/wiiiiilllllll/post/blurground)
+  - [The “Blur Up” Technique for Loading Background Images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/)
    
-      或许也可以结合progressive JPEG(渐进式JPRG)?
+  - [Improving "Improving Perceived Performance with Multiple Background Images" with multiple background images](http://codepen.io/wiiiiilllllll/post/blurground)
+   
+  - 或许也可以结合progressive JPEG(渐进式JPRG)?
